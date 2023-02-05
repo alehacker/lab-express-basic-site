@@ -1,0 +1,19 @@
+*{
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    background-color: hsl(100, 65%, 74%);
+    display: flex;
+    justify-content: flex-start;
+    height: 10vh;  
+    font-size: 30px;
+}
+a{
+    list-style: none;
+}
+
+h1{
+    font-size: 30px;
+}
